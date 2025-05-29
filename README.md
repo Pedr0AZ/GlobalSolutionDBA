@@ -1,5 +1,5 @@
 # GlobalSolutionDBA
-_________________________________________________________________
+
 # Integrantes do grupo:
 Guilherme Baptista RM 562425
 Iago Pakai RM 561899
