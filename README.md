@@ -6,7 +6,7 @@ Iago Pakai RM 561899
 Pedro Silva RM 565746
 ____________________________________________________________________________________________
 Modo de uso:
-Passo 1: Digitar o tipo de desastre a ser reportado
+Passo 1: Digitar o tipo de desastre a ser reportado<br>
 Passo 2: Preencher os campos detalhando o desastre
 Passo 3: Inserir a quantidade de pessoas afetadas no total
 Passo 4: Inserir quantidade de pessoas afetadas por categoria (Crianças, adultos, idosos, pessoa com mobilidade reduzida e pessoas feridas)
